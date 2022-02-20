@@ -1,0 +1,2 @@
+# shop
+ITVDN - DJANGO БАЗОВЫЙ
